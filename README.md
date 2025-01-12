@@ -1,7 +1,3 @@
-Here's a professional and technical README for your project. You can modify it as per your requirements:
-
----
-
 # Sentiment Analysis on Uber Reviews
 
 This project performs sentiment analysis on Uber reviews dataset using Natural Language Processing (NLP) techniques. The primary goal is to predict the sentiment (Positive, Neutral, or Negative) of user reviews based on the content of the review. We use machine learning models such as RandomForestClassifier to analyze and classify the reviews.
